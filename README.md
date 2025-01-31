@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jenanmashhour12
+- 👋 Hi, I’m @JenanMohammad
 
 <!---
 jenanmashhour12/jenanmashhour12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
